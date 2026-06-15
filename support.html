@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Pole to Glory Support</title>
+    <style>
+      :root {
+        color-scheme: dark;
+        --bg: #090d14;
+        --panel: #111827;
+        --panel-soft: #172033;
+        --text: #f5f7fb;
+        --muted: #a8b3c7;
+        --accent: #7bdff2;
+        --line: rgba(255, 255, 255, 0.14);
+      }
+
+      * { box-sizing: border-box; }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        line-height: 1.6;
+        background: radial-gradient(circle at top left, rgba(123, 223, 242, 0.16), transparent 34rem), var(--bg);
+        color: var(--text);
+      }
+
+      main {
+        width: min(920px, calc(100% - 32px));
+        margin: 0 auto;
+        padding: 40px 0 56px;
+      }
+
+      header, section {
+        border: 1px solid var(--line);
+        border-radius: 24px;
+        background: linear-gradient(180deg, var(--panel), var(--panel-soft));
+        box-shadow: 0 20px 50px rgba(0, 0, 0, 0.28);
+        padding: 24px;
+        margin: 0 0 18px;
+      }
+
+      h1, h2, h3 { line-height: 1.15; margin: 0 0 12px; }
+      p, li { color: var(--muted); }
+      strong { color: var(--text); }
+      a { color: var(--accent); }
+      .eyebrow { color: var(--accent); font-weight: 800; letter-spacing: 0.08em; text-transform: uppercase; font-size: 0.78rem; }
+      .back-link { display: inline-block; margin-top: 10px; font-weight: 800; }
+      .faq { display: grid; gap: 14px; }
+      .faq article { border-top: 1px solid var(--line); padding-top: 14px; }
+      .faq article:first-child { border-top: 0; padding-top: 0; }
+    </style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <p class="eyebrow">Support</p>
+        <h1>Pole to Glory</h1>
+        <p>Pole to Glory is a fictional, local-first racing strategy game. This page covers common support questions for the public web app and iOS candidate.</p>
+        <p><strong>Support contact:</strong> This public support page is the current support destination. Add a dedicated support email here before wider App Store release if needed.</p>
+        <a class="back-link" href="./">Back to app</a>
+      </header>
+
+      <section>
+        <h2>FAQ</h2>
+        <div class="faq">
+          <article>
+            <h3>Does the app work offline?</h3>
+            <p>The iOS candidate is designed to bundle the game locally. The web version may need an initial load from GitHub Pages, but gameplay itself does not rely on a backend.</p>
+          </article>
+          <article>
+            <h3>Do I need an account?</h3>
+            <p>No. Pole to Glory has no accounts, login, authentication or online profile system.</p>
+          </article>
+          <article>
+            <h3>Where is progress stored?</h3>
+            <p>Progress such as Build & Race XP, upgrades and Mini Season state is stored locally on your device/browser. It is not uploaded to a server.</p>
+          </article>
+          <article>
+            <h3>How do I reset progress?</h3>
+            <p>Use the in-app reset options for Build & Race or Mini Season where available. You can also clear browser site data or delete the app to remove local progress.</p>
+          </article>
+          <article>
+            <h3>How do Daily Race and Challenge Race work?</h3>
+            <p>They use deterministic seeds so players can manually compare the same fictional race setup. There is no online leaderboard and no score upload.</p>
+          </article>
+          <article>
+            <h3>Is the content based on real racing?</h3>
+            <p>No. Drivers, teams, circuits, racing events and results are fictional. Pole to Glory does not use real-world racing brands, official data or affiliation claims.</p>
+          </article>
+        </div>
+      </section>
+
+      <section>
+        <h2>Privacy</h2>
+        <p>Read the privacy policy here: <a href="./privacy.html">Pole to Glory Privacy Policy</a>.</p>
+      </section>
+    </main>
+  </body>
+</html>

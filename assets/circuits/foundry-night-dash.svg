@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 320 210" role="img" aria-label="Foundry Night Dash original fictional circuit map">
+  <defs>
+    <linearGradient id="track-foundry-night-dash" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0" stop-color="#f43f5e"/>
+      <stop offset="1" stop-color="#fbbf24"/>
+    </linearGradient>
+    <radialGradient id="glow-foundry-night-dash" cx="50%" cy="48%" r="70%">
+      <stop offset="0" stop-color="#f43f5e" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#0b1020" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft-foundry-night-dash" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="7" stdDeviation="7" flood-color="#f43f5e" flood-opacity="0.32"/>
+    </filter>
+    <marker id="arrow-foundry-night-dash" markerWidth="8" markerHeight="8" refX="5" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L6,3 z" fill="#f8fafc"/></marker>
+  </defs>
+  <rect width="320" height="210" rx="28" fill="#0b1020"/>
+  <circle cx="160" cy="108" r="136" fill="url(#glow-foundry-night-dash)"/>
+  <g opacity="0.11" stroke="#f8fafc" stroke-width="1">
+    <path d="M30 42 H290"/><path d="M30 60 H290"/><path d="M30 78 H290"/><path d="M30 96 H290"/><path d="M30 114 H290"/><path d="M30 132 H290"/><path d="M30 150 H290"/><path d="M30 168 H290"/>
+    <path d="M48 28 V186"/><path d="M70 28 V186"/><path d="M92 28 V186"/><path d="M114 28 V186"/><path d="M136 28 V186"/><path d="M158 28 V186"/><path d="M180 28 V186"/><path d="M202 28 V186"/><path d="M224 28 V186"/><path d="M246 28 V186"/><path d="M268 28 V186"/>
+  </g>
+  <path d="M70 78 L190 78 Q226 80 236 112 Q238 136 202 150 L166 184 Q130 202 96 190 Q58 178 62 154 Q60 112 70 78 Z" fill="none" stroke="#020617" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" opacity="0.88"/>
+  <path d="M70 78 L190 78 Q226 80 236 112 Q238 136 202 150 L166 184 Q130 202 96 190 Q58 178 62 154 Q60 112 70 78 Z" fill="none" stroke="url(#track-foundry-night-dash)" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" filter="url(#soft-foundry-night-dash)"/>
+  <path d="M70 78 L190 78 Q226 80 236 112 Q238 136 202 150 L166 184 Q130 202 96 190 Q58 178 62 154 Q60 112 70 78 Z" fill="none" stroke="#f8fafc" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.72" stroke-dasharray="7 12" marker-end="url(#arrow-foundry-night-dash)"/>
+  <path d="M70 78 L190 78" fill="none" stroke="#f8fafc" stroke-width="5" stroke-linecap="round" opacity="0.95"/>
+  <g transform="translate(96 190) rotate(-8)"><rect x="-12" y="-7" width="24" height="14" rx="2" fill="#020617" stroke="#f8fafc" stroke-width="2"/><path d="M-8 -5 V5 M-2 -5 V5 M4 -5 V5 M10 -5 V5" stroke="#f8fafc" stroke-width="1" opacity="0.7"/></g>
+  <g transform="translate(236 112)"><circle r="12" fill="#fbbf24"/><text y="4" text-anchor="middle" fill="#020617" font-family="Inter, Arial, sans-serif" font-size="9" font-weight="900">T1</text></g>
+  <circle cx="70" cy="78" r="2.8" fill="#f43f5e" opacity="0.9"/>
+  <circle cx="190" cy="78" r="4.2" fill="#fbbf24" opacity="0.9"/>
+  <circle cx="236" cy="112" r="2.8" fill="#f43f5e" opacity="0.9"/>
+  <circle cx="202" cy="150" r="2.8" fill="#f43f5e" opacity="0.9"/>
+  <circle cx="166" cy="184" r="2.8" fill="#f43f5e" opacity="0.9"/>
+  <circle cx="96" cy="190" r="2.8" fill="#f43f5e" opacity="0.9"/>
+  <circle cx="62" cy="154" r="2.8" fill="#f43f5e" opacity="0.9"/>
+  <g transform="translate(136 78)"><circle r="11" fill="#020617" stroke="#f43f5e" stroke-width="2"/><text y="4" text-anchor="middle" fill="#f8fafc" font-family="Inter, Arial, sans-serif" font-size="8" font-weight="900">S1</text></g>
+  <g transform="translate(220 132)"><circle r="11" fill="#020617" stroke="#f43f5e" stroke-width="2"/><text y="4" text-anchor="middle" fill="#f8fafc" font-family="Inter, Arial, sans-serif" font-size="8" font-weight="900">S2</text></g>
+  <g transform="translate(120 194)"><circle r="11" fill="#020617" stroke="#f43f5e" stroke-width="2"/><text y="4" text-anchor="middle" fill="#f8fafc" font-family="Inter, Arial, sans-serif" font-size="8" font-weight="900">S3</text></g>
+  <text x="24" y="32" fill="#f8fafc" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="900">Foundry Night Dash</text>
+  <text x="24" y="51" fill="#94a3b8" font-family="Inter, Arial, sans-serif" font-size="8.5" font-weight="800" letter-spacing="1.4">TRAZADO FICTICIO ORIGINAL</text>
+  <text x="220" y="36" fill="#f8fafc" font-family="Inter, Arial, sans-serif" font-size="8" font-weight="900">zona ataque</text>
+</svg>

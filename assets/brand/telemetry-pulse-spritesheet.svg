@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="Pole to Glory original fictional racing asset">
+  <defs>
+    <linearGradient id="ptg-gold" x1="18%" y1="8%" x2="86%" y2="92%">
+      <stop offset="0" stop-color="#fbbf24"/>
+      <stop offset="0.58" stop-color="#fb7185"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="ptg-cyan" x1="10%" y1="10%" x2="90%" y2="90%">
+      <stop offset="0" stop-color="#7dd3fc"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <radialGradient id="ptg-glow" cx="50%" cy="38%" r="68%">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.34"/>
+      <stop offset="0.55" stop-color="#a78bfa" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#0b1020" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft-shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#020617" flood-opacity="0.42"/>
+    </filter>
+  </defs><g transform="translate(0 0)">
+    <rect width="256" height="256" fill="none"/>
+    <g transform="translate(0 0)">
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="14" stroke-linecap="round"/>
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="url(#ptg-gold)" stroke-width="7" stroke-linecap="round" stroke-dasharray="70 260" stroke-dashoffset="0"/>
+      <circle cx="42" cy="136" r="16" fill="#fbbf24"/>
+      <circle cx="42" cy="136" r="28" fill="#fbbf24" opacity="0.16"/>
+    </g>
+  </g>
+<g transform="translate(256 0)">
+    <rect width="256" height="256" fill="none"/>
+    <g transform="translate(0 1.913417161825449)">
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="14" stroke-linecap="round"/>
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="url(#ptg-gold)" stroke-width="7" stroke-linecap="round" stroke-dasharray="70 260" stroke-dashoffset="-20.625"/>
+      <circle cx="52.75" cy="160.0416305603426" r="16" fill="#fbbf24"/>
+      <circle cx="52.75" cy="160.0416305603426" r="28" fill="#fbbf24" opacity="0.16"/>
+    </g>
+  </g>
+<g transform="translate(512 0)">
+    <rect width="256" height="256" fill="none"/>
+    <g transform="translate(0 3.5355339059327373)">
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="14" stroke-linecap="round"/>
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="url(#ptg-gold)" stroke-width="7" stroke-linecap="round" stroke-dasharray="70 260" stroke-dashoffset="-41.25"/>
+      <circle cx="63.5" cy="170" r="16" fill="#fbbf24"/>
+      <circle cx="63.5" cy="170" r="28" fill="#fbbf24" opacity="0.16"/>
+    </g>
+  </g>
+<g transform="translate(768 0)">
+    <rect width="256" height="256" fill="none"/>
+    <g transform="translate(0 4.619397662556434)">
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="14" stroke-linecap="round"/>
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="url(#ptg-gold)" stroke-width="7" stroke-linecap="round" stroke-dasharray="70 260" stroke-dashoffset="-61.875"/>
+      <circle cx="74.25" cy="160.0416305603426" r="16" fill="#fbbf24"/>
+      <circle cx="74.25" cy="160.0416305603426" r="28" fill="#fbbf24" opacity="0.16"/>
+    </g>
+  </g>
+<g transform="translate(0 256)">
+    <rect width="256" height="256" fill="none"/>
+    <g transform="translate(0 5)">
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="14" stroke-linecap="round"/>
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="url(#ptg-gold)" stroke-width="7" stroke-linecap="round" stroke-dasharray="70 260" stroke-dashoffset="-82.5"/>
+      <circle cx="85" cy="136" r="16" fill="#fbbf24"/>
+      <circle cx="85" cy="136" r="28" fill="#fbbf24" opacity="0.16"/>
+    </g>
+  </g>
+<g transform="translate(256 256)">
+    <rect width="256" height="256" fill="none"/>
+    <g transform="translate(0 4.619397662556434)">
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="14" stroke-linecap="round"/>
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="url(#ptg-gold)" stroke-width="7" stroke-linecap="round" stroke-dasharray="70 260" stroke-dashoffset="-103.125"/>
+      <circle cx="95.75" cy="111.95836943965739" r="16" fill="#fbbf24"/>
+      <circle cx="95.75" cy="111.95836943965739" r="28" fill="#fbbf24" opacity="0.16"/>
+    </g>
+  </g>
+<g transform="translate(512 256)">
+    <rect width="256" height="256" fill="none"/>
+    <g transform="translate(0 3.5355339059327378)">
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="14" stroke-linecap="round"/>
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="url(#ptg-gold)" stroke-width="7" stroke-linecap="round" stroke-dasharray="70 260" stroke-dashoffset="-123.75"/>
+      <circle cx="106.5" cy="102" r="16" fill="#fbbf24"/>
+      <circle cx="106.5" cy="102" r="28" fill="#fbbf24" opacity="0.16"/>
+    </g>
+  </g>
+<g transform="translate(768 256)">
+    <rect width="256" height="256" fill="none"/>
+    <g transform="translate(0 1.9134171618254494)">
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="14" stroke-linecap="round"/>
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="url(#ptg-gold)" stroke-width="7" stroke-linecap="round" stroke-dasharray="70 260" stroke-dashoffset="-144.375"/>
+      <circle cx="117.25" cy="111.95836943965737" r="16" fill="#fbbf24"/>
+      <circle cx="117.25" cy="111.95836943965737" r="28" fill="#fbbf24" opacity="0.16"/>
+    </g>
+  </g>
+<g transform="translate(0 512)">
+    <rect width="256" height="256" fill="none"/>
+    <g transform="translate(0 6.123233995736766e-16)">
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="14" stroke-linecap="round"/>
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="url(#ptg-gold)" stroke-width="7" stroke-linecap="round" stroke-dasharray="70 260" stroke-dashoffset="-165"/>
+      <circle cx="128" cy="136" r="16" fill="#fbbf24"/>
+      <circle cx="128" cy="136" r="28" fill="#fbbf24" opacity="0.16"/>
+    </g>
+  </g>
+<g transform="translate(256 512)">
+    <rect width="256" height="256" fill="none"/>
+    <g transform="translate(0 -1.9134171618254483)">
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="14" stroke-linecap="round"/>
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="url(#ptg-gold)" stroke-width="7" stroke-linecap="round" stroke-dasharray="70 260" stroke-dashoffset="-185.625"/>
+      <circle cx="138.75" cy="160.0416305603426" r="16" fill="#fbbf24"/>
+      <circle cx="138.75" cy="160.0416305603426" r="28" fill="#fbbf24" opacity="0.16"/>
+    </g>
+  </g>
+<g transform="translate(512 512)">
+    <rect width="256" height="256" fill="none"/>
+    <g transform="translate(0 -3.5355339059327373)">
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="14" stroke-linecap="round"/>
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="url(#ptg-gold)" stroke-width="7" stroke-linecap="round" stroke-dasharray="70 260" stroke-dashoffset="-206.25"/>
+      <circle cx="149.5" cy="170" r="16" fill="#fbbf24"/>
+      <circle cx="149.5" cy="170" r="28" fill="#fbbf24" opacity="0.16"/>
+    </g>
+  </g>
+<g transform="translate(768 512)">
+    <rect width="256" height="256" fill="none"/>
+    <g transform="translate(0 -4.619397662556432)">
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="14" stroke-linecap="round"/>
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="url(#ptg-gold)" stroke-width="7" stroke-linecap="round" stroke-dasharray="70 260" stroke-dashoffset="-226.875"/>
+      <circle cx="160.25" cy="160.04163056034264" r="16" fill="#fbbf24"/>
+      <circle cx="160.25" cy="160.04163056034264" r="28" fill="#fbbf24" opacity="0.16"/>
+    </g>
+  </g>
+<g transform="translate(0 768)">
+    <rect width="256" height="256" fill="none"/>
+    <g transform="translate(0 -5)">
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="14" stroke-linecap="round"/>
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="url(#ptg-gold)" stroke-width="7" stroke-linecap="round" stroke-dasharray="70 260" stroke-dashoffset="-247.5"/>
+      <circle cx="171" cy="136" r="16" fill="#fbbf24"/>
+      <circle cx="171" cy="136" r="28" fill="#fbbf24" opacity="0.16"/>
+    </g>
+  </g>
+<g transform="translate(256 768)">
+    <rect width="256" height="256" fill="none"/>
+    <g transform="translate(0 -4.619397662556433)">
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="14" stroke-linecap="round"/>
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="url(#ptg-gold)" stroke-width="7" stroke-linecap="round" stroke-dasharray="70 260" stroke-dashoffset="-268.125"/>
+      <circle cx="181.75" cy="111.95836943965737" r="16" fill="#fbbf24"/>
+      <circle cx="181.75" cy="111.95836943965737" r="28" fill="#fbbf24" opacity="0.16"/>
+    </g>
+  </g>
+<g transform="translate(512 768)">
+    <rect width="256" height="256" fill="none"/>
+    <g transform="translate(0 -3.5355339059327386)">
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="14" stroke-linecap="round"/>
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="url(#ptg-gold)" stroke-width="7" stroke-linecap="round" stroke-dasharray="70 260" stroke-dashoffset="-288.75"/>
+      <circle cx="192.5" cy="102" r="16" fill="#fbbf24"/>
+      <circle cx="192.5" cy="102" r="28" fill="#fbbf24" opacity="0.16"/>
+    </g>
+  </g>
+<g transform="translate(768 768)">
+    <rect width="256" height="256" fill="none"/>
+    <g transform="translate(0 -1.913417161825452)">
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="#38bdf8" stroke-opacity="0.22" stroke-width="14" stroke-linecap="round"/>
+      <path d="M34 142 C78 82 118 196 158 136 C186 94 204 104 224 76" fill="none" stroke="url(#ptg-gold)" stroke-width="7" stroke-linecap="round" stroke-dasharray="70 260" stroke-dashoffset="-309.375"/>
+      <circle cx="203.25" cy="111.95836943965736" r="16" fill="#fbbf24"/>
+      <circle cx="203.25" cy="111.95836943965736" r="28" fill="#fbbf24" opacity="0.16"/>
+    </g>
+  </g></svg>

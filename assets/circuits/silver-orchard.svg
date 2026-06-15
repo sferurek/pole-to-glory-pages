@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 320 210" role="img" aria-label="Silver Orchard Circuit original fictional circuit map">
+  <defs>
+    <linearGradient id="track-silver-orchard" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0" stop-color="#94a3b8"/>
+      <stop offset="1" stop-color="#f8fafc"/>
+    </linearGradient>
+    <radialGradient id="glow-silver-orchard" cx="50%" cy="48%" r="70%">
+      <stop offset="0" stop-color="#94a3b8" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#0b1020" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft-silver-orchard" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="7" stdDeviation="7" flood-color="#94a3b8" flood-opacity="0.32"/>
+    </filter>
+    <marker id="arrow-silver-orchard" markerWidth="8" markerHeight="8" refX="5" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L6,3 z" fill="#f8fafc"/></marker>
+  </defs>
+  <rect width="320" height="210" rx="28" fill="#0b1020"/>
+  <circle cx="160" cy="108" r="136" fill="url(#glow-silver-orchard)"/>
+  <g opacity="0.11" stroke="#f8fafc" stroke-width="1">
+    <path d="M30 42 H290"/><path d="M30 60 H290"/><path d="M30 78 H290"/><path d="M30 96 H290"/><path d="M30 114 H290"/><path d="M30 132 H290"/><path d="M30 150 H290"/><path d="M30 168 H290"/>
+    <path d="M48 28 V186"/><path d="M70 28 V186"/><path d="M92 28 V186"/><path d="M114 28 V186"/><path d="M136 28 V186"/><path d="M158 28 V186"/><path d="M180 28 V186"/><path d="M202 28 V186"/><path d="M224 28 V186"/><path d="M246 28 V186"/><path d="M268 28 V186"/>
+  </g>
+  <path d="M62 126 Q66 96 78 78 Q106 58 134 60 Q178 60 202 78 Q238 100 244 126 Q244 154 218 174 Q190 194 154 194 Q112 192 86 174 Q58 154 62 126 Z" fill="none" stroke="#020617" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" opacity="0.88"/>
+  <path d="M62 126 Q66 96 78 78 Q106 58 134 60 Q178 60 202 78 Q238 100 244 126 Q244 154 218 174 Q190 194 154 194 Q112 192 86 174 Q58 154 62 126 Z" fill="none" stroke="url(#track-silver-orchard)" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" filter="url(#soft-silver-orchard)"/>
+  <path d="M62 126 Q66 96 78 78 Q106 58 134 60 Q178 60 202 78 Q238 100 244 126 Q244 154 218 174 Q190 194 154 194 Q112 192 86 174 Q58 154 62 126 Z" fill="none" stroke="#f8fafc" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.72" stroke-dasharray="7 12" marker-end="url(#arrow-silver-orchard)"/>
+  <path d="M202 78 Q238 100 244 126" fill="none" stroke="#f8fafc" stroke-width="5" stroke-linecap="round" opacity="0.95"/>
+  <g transform="translate(86 174) rotate(-8)"><rect x="-12" y="-7" width="24" height="14" rx="2" fill="#020617" stroke="#f8fafc" stroke-width="2"/><path d="M-8 -5 V5 M-2 -5 V5 M4 -5 V5 M10 -5 V5" stroke="#f8fafc" stroke-width="1" opacity="0.7"/></g>
+  <g transform="translate(78 78)"><circle r="12" fill="#f8fafc"/><text y="4" text-anchor="middle" fill="#020617" font-family="Inter, Arial, sans-serif" font-size="9" font-weight="900">T1</text></g>
+  <circle cx="62" cy="126" r="2.8" fill="#94a3b8" opacity="0.9"/>
+  <circle cx="78" cy="78" r="4.2" fill="#f8fafc" opacity="0.9"/>
+  <circle cx="134" cy="60" r="2.8" fill="#94a3b8" opacity="0.9"/>
+  <circle cx="202" cy="78" r="2.8" fill="#94a3b8" opacity="0.9"/>
+  <circle cx="244" cy="126" r="2.8" fill="#94a3b8" opacity="0.9"/>
+  <circle cx="218" cy="174" r="2.8" fill="#94a3b8" opacity="0.9"/>
+  <circle cx="154" cy="194" r="2.8" fill="#94a3b8" opacity="0.9"/>
+  <circle cx="86" cy="174" r="2.8" fill="#94a3b8" opacity="0.9"/>
+  <g transform="translate(116 62)"><circle r="11" fill="#020617" stroke="#94a3b8" stroke-width="2"/><text y="4" text-anchor="middle" fill="#f8fafc" font-family="Inter, Arial, sans-serif" font-size="8" font-weight="900">S1</text></g>
+  <g transform="translate(234 144)"><circle r="11" fill="#020617" stroke="#94a3b8" stroke-width="2"/><text y="4" text-anchor="middle" fill="#f8fafc" font-family="Inter, Arial, sans-serif" font-size="8" font-weight="900">S2</text></g>
+  <g transform="translate(132 194)"><circle r="11" fill="#020617" stroke="#94a3b8" stroke-width="2"/><text y="4" text-anchor="middle" fill="#f8fafc" font-family="Inter, Arial, sans-serif" font-size="8" font-weight="900">S3</text></g>
+  <text x="24" y="32" fill="#f8fafc" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="900">Silver Orchard Circuit</text>
+  <text x="24" y="51" fill="#94a3b8" font-family="Inter, Arial, sans-serif" font-size="8.5" font-weight="800" letter-spacing="1.4">TRAZADO FICTICIO ORIGINAL</text>
+  <text x="220" y="36" fill="#f8fafc" font-family="Inter, Arial, sans-serif" font-size="8" font-weight="900">zona ataque</text>
+</svg>

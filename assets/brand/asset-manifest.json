@@ -1,0 +1,64 @@
+{
+  "generatedBy": "gorest-2d-animation-spritesheet-generator local procedural workflow",
+  "project": "Pole to Glory",
+  "legalSafety": "Original fictional racing assets. No real drivers, teams, circuits, logos, liveries, official marks, or official data.",
+  "generatedAt": "2026-06-15T10:39:05.383Z",
+  "assets": [
+    {
+      "file": "assets/brand/logo-mark.svg",
+      "source": "public/generated/pole-to-glory/logo-mark.svg"
+    },
+    {
+      "file": "assets/brand/app-icon.svg",
+      "source": "public/generated/pole-to-glory/app-icon.svg"
+    },
+    {
+      "file": "assets/brand/wordmark.svg",
+      "source": "public/generated/pole-to-glory/wordmark.svg"
+    },
+    {
+      "file": "assets/brand/hero-banner.svg",
+      "source": "public/generated/pole-to-glory/hero-banner.svg"
+    },
+    {
+      "file": "assets/brand/splash.svg",
+      "source": "public/generated/pole-to-glory/splash.svg"
+    },
+    {
+      "file": "assets/brand/mode-build-race.svg",
+      "source": "public/generated/pole-to-glory/mode-build-race.svg"
+    },
+    {
+      "file": "assets/brand/mode-mini-season.svg",
+      "source": "public/generated/pole-to-glory/mode-mini-season.svg"
+    },
+    {
+      "file": "assets/brand/mode-daily-challenge.svg",
+      "source": "public/generated/pole-to-glory/mode-daily-challenge.svg"
+    },
+    {
+      "file": "assets/brand/mode-tactical-race.svg",
+      "source": "public/generated/pole-to-glory/mode-tactical-race.svg"
+    },
+    {
+      "file": "assets/brand/mode-draft-run.svg",
+      "source": "public/generated/pole-to-glory/mode-draft-run.svg"
+    },
+    {
+      "file": "assets/brand/asset-xp.svg",
+      "source": "public/generated/pole-to-glory/asset-xp.svg"
+    },
+    {
+      "file": "assets/brand/asset-reliability.svg",
+      "source": "public/generated/pole-to-glory/asset-reliability.svg"
+    },
+    {
+      "file": "assets/brand/asset-telemetry.svg",
+      "source": "public/generated/pole-to-glory/asset-telemetry.svg"
+    },
+    {
+      "file": "assets/brand/telemetry-pulse-spritesheet.svg",
+      "source": "public/generated/pole-to-glory/telemetry-pulse-spritesheet.svg"
+    }
+  ]
+}

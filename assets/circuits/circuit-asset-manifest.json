@@ -1,0 +1,81 @@
+{
+  "generatedBy": "gorest-2d-animation-spritesheet-generator local procedural workflow",
+  "project": "Pole to Glory",
+  "legalSafety": "Original plausible fictional circuit layouts. They are not copies, tracings, simplifications, or renamed versions of real circuits.",
+  "generatedAt": "2026-06-15T11:06:00.958Z",
+  "style": "plausible technical racing circuit cards with sectors, T1, línea de salida, and zona ataque",
+  "circuits": [
+    {
+      "id": "harbor-sprint",
+      "name": "Harbor Sprint",
+      "svg": "assets/circuits/harbor-sprint.svg",
+      "png": "assets/circuits/harbor-sprint.png"
+    },
+    {
+      "id": "red-mesa-run",
+      "name": "Red Mesa Run",
+      "svg": "assets/circuits/red-mesa-run.svg",
+      "png": "assets/circuits/red-mesa-run.png"
+    },
+    {
+      "id": "northpoint-rain-trial",
+      "name": "Northpoint Rain Trial",
+      "svg": "assets/circuits/northpoint-rain-trial.svg",
+      "png": "assets/circuits/northpoint-rain-trial.png"
+    },
+    {
+      "id": "silver-orchard",
+      "name": "Silver Orchard Circuit",
+      "svg": "assets/circuits/silver-orchard.svg",
+      "png": "assets/circuits/silver-orchard.png"
+    },
+    {
+      "id": "glasswater-loop",
+      "name": "Glasswater Street Loop",
+      "svg": "assets/circuits/glasswater-loop.svg",
+      "png": "assets/circuits/glasswater-loop.png"
+    },
+    {
+      "id": "cinder-ridge",
+      "name": "Cinder Ridge Course",
+      "svg": "assets/circuits/cinder-ridge.svg",
+      "png": "assets/circuits/cinder-ridge.png"
+    },
+    {
+      "id": "eastgate-powerway",
+      "name": "Eastgate Powerway",
+      "svg": "assets/circuits/eastgate-powerway.svg",
+      "png": "assets/circuits/eastgate-powerway.png"
+    },
+    {
+      "id": "velvet-dunes",
+      "name": "Velvet Dunes Enduro",
+      "svg": "assets/circuits/velvet-dunes.svg",
+      "png": "assets/circuits/velvet-dunes.png"
+    },
+    {
+      "id": "pine-valley-club",
+      "name": "Pine Valley Club Race",
+      "svg": "assets/circuits/pine-valley-club.svg",
+      "png": "assets/circuits/pine-valley-club.png"
+    },
+    {
+      "id": "foundry-night-dash",
+      "name": "Foundry Night Dash",
+      "svg": "assets/circuits/foundry-night-dash.svg",
+      "png": "assets/circuits/foundry-night-dash.png"
+    },
+    {
+      "id": "stormbank-international",
+      "name": "Stormbank International",
+      "svg": "assets/circuits/stormbank-international.svg",
+      "png": "assets/circuits/stormbank-international.png"
+    },
+    {
+      "id": "solstice-aerodrome",
+      "name": "Solstice Aerodrome",
+      "svg": "assets/circuits/solstice-aerodrome.svg",
+      "png": "assets/circuits/solstice-aerodrome.png"
+    }
+  ]
+}
